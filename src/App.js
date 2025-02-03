@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import milkBounce from "./milk_bounce.webp";
-import bubuDudu from "./bubu-dudu-kiss.gif";
+import mochaBounce from "./mocha_bounce.gif";
+import bubuDudu from "./dudu_kiss_bubu.gif";
 
 import "./App.scss";
 
@@ -31,7 +31,7 @@ const App = () => {
     "You've breaking my heart :'(",
   ];
 
-  const resizeHandler = () => {};
+  // const resizeHandler = () => {};
 
   const onRedClickHandler = () => {
     if (!(index >= arrayOfRejections.length - 1)) {
@@ -55,7 +55,7 @@ const App = () => {
       ) : (
         <>
           <header>Be my valentine?</header>
-          <img src={milkBounce} alt="milk mocha" />
+          <img src={mochaBounce} alt="milk mocha" />
           <div className="buttons-container">
             <button
               className="button button-green"
