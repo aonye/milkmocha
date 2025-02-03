@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/milkmocha/static/css/main.abdab4e5.css",
-    "main.js": "/milkmocha/static/js/main.85e527dd.js",
+    "main.js": "/milkmocha/static/js/main.233c01c7.js",
     "static/js/453.774ef034.chunk.js": "/milkmocha/static/js/453.774ef034.chunk.js",
-    "static/media/bubu-dudu-kiss.gif": "/milkmocha/static/media/bubu-dudu-kiss.ac5055a93a92ee4e2eb6.gif",
-    "static/media/milk_bounce.webp": "/milkmocha/static/media/milk_bounce.56a24e2dd509d9d62476.webp",
+    "static/media/mocha_bounce.gif": "/milkmocha/static/media/mocha_bounce.6b9510613204680e2293.gif",
+    "static/media/dudu_kiss_bubu.gif": "/milkmocha/static/media/dudu_kiss_bubu.0379327cb970a7abe43a.gif",
     "index.html": "/milkmocha/index.html",
     "main.abdab4e5.css.map": "/milkmocha/static/css/main.abdab4e5.css.map",
-    "main.85e527dd.js.map": "/milkmocha/static/js/main.85e527dd.js.map",
+    "main.233c01c7.js.map": "/milkmocha/static/js/main.233c01c7.js.map",
     "453.774ef034.chunk.js.map": "/milkmocha/static/js/453.774ef034.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abdab4e5.css",
-    "static/js/main.85e527dd.js"
+    "static/js/main.233c01c7.js"
   ]
 }
